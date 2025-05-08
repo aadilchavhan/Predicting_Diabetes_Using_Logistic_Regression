@@ -1,5 +1,7 @@
 # Predicting_Diabetes_Using_Logistic_Regression
 
+![Diabetes](https://raw.githubusercontent.com/aadilchavhan/Predicting_Diabetes_Using_Logistic_Regression/main/diabetes.webp)
+
 ## Overview
 This project implements Logistic Regression to predict diabetes in Indian patients using key medical attributes. The analysis involves data preprocessing, exploratory data analysis (EDA), model training, and evaluation, aiming to enhance early detection and diagnosis through machine learning.
 
